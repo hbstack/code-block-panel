@@ -8,5 +8,6 @@ github.com/hbstack/snackbar v0.1.0 h1:xTgENo0CB4VtV6b1+VEj3086FQpG0KtiKmmkZLqlsq
 github.com/hbstack/snackbar v0.1.0/go.mod h1:rgVAY9iD/eqvU7NFardQfT9ODYMqA52ESRJpmHEaDZE=
 github.com/hugomods/code-block-panel v0.1.0 h1:bGDUbthqTIHsC95rCAvgQsoCVE1HU2WCED/kTEHChFA=
 github.com/hugomods/code-block-panel v0.1.0/go.mod h1:9JGx2XL4BUfDPre72t/TNDvo0b90fEHkqt7JhtJf7AI=
+github.com/hugomods/code-block-panel v0.1.1/go.mod h1:9JGx2XL4BUfDPre72t/TNDvo0b90fEHkqt7JhtJf7AI=
 github.com/hugomods/i18n-js v0.1.0 h1:gJmJVObN8rvtMEwBW/z9Wiitown5ZT91092UaAO+UIE=
 github.com/hugomods/i18n-js v0.1.0/go.mod h1:eJfxjgI2CQsNA1/ReIVvr5127DftUKcbHd2A2SQmDvU=
