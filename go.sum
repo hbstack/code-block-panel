@@ -4,6 +4,7 @@ github.com/hbstack/hb v0.2.0 h1:fWwFoFKTAoreLqcBpquZzPrxy7tLj46SKcvSOeE7fc4=
 github.com/hbstack/hb v0.2.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
 github.com/hbstack/hb v0.3.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
 github.com/hbstack/hb v0.4.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
+github.com/hbstack/hb v0.5.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
 github.com/hbstack/snackbar v0.1.0 h1:xTgENo0CB4VtV6b1+VEj3086FQpG0KtiKmmkZLqlsqg=
 github.com/hbstack/snackbar v0.1.0/go.mod h1:rgVAY9iD/eqvU7NFardQfT9ODYMqA52ESRJpmHEaDZE=
 github.com/hugomods/code-block-panel v0.1.1 h1:2ZvWCm+zZynY2opP/0nOpaL4tWoV73WfONCNG1vRrjY=
