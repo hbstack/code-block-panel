@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.1.3](https://github.com/hbstack/code-block-panel/compare/v0.1.2...v0.1.3) (2024-10-08)
+
+
+### Bug Fixes 🐞
+
+* **deps:** update dependency stylelint-scss to v6.2.0 ([7825001](https://github.com/hbstack/code-block-panel/commit/78250017ce385d5ba2924d7ea1eb263b7ebe5b0c))
+* **deps:** update dependency stylelint-scss to v6.2.1 ([b685b06](https://github.com/hbstack/code-block-panel/commit/b685b06df4ae203fdc022cc536711594a8fe73f4))
+* **deps:** update dependency stylelint-scss to v6.4.1 ([cec4e3a](https://github.com/hbstack/code-block-panel/commit/cec4e3ae8670fa188bc39248b7d3211db7768a12))
+* **deps:** update dependency stylelint-scss to v6.5.0 ([d9b2848](https://github.com/hbstack/code-block-panel/commit/d9b2848f912f2d121472e65ce237a2a27891ddf8))
+* **deps:** update dependency stylelint-scss to v6.5.1 ([0c6b118](https://github.com/hbstack/code-block-panel/commit/0c6b118004e034184c96e8bb2ba935125b16f7af))
+* **deps:** update dependency stylelint-scss to v6.6.0 ([48cc919](https://github.com/hbstack/code-block-panel/commit/48cc919a2bb664782efb12d7e20cdd501f7a1646))
+* **deps:** update dependency stylelint-scss to v6.7.0 ([9d78d9b](https://github.com/hbstack/code-block-panel/commit/9d78d9b80bc21eb1b391c1b91fc6947f5fb57cbb))
+
 ## [0.1.2](https://github.com/hbstack/code-block-panel/compare/v0.1.1...v0.1.2) (2024-02-17)
 
 
