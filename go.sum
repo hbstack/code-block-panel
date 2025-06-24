@@ -47,6 +47,7 @@ github.com/hugomods/code-block-panel v0.6.0/go.mod h1:3J9yUxaShbhYvFFZbGVHcBoHPl
 github.com/hugomods/code-block-panel v0.7.0/go.mod h1:3J9yUxaShbhYvFFZbGVHcBoHPl6TUKLL3f2fTsnVNNg=
 github.com/hugomods/code-block-panel v0.7.1/go.mod h1:3J9yUxaShbhYvFFZbGVHcBoHPl6TUKLL3f2fTsnVNNg=
 github.com/hugomods/code-block-panel v0.8.0/go.mod h1:3J9yUxaShbhYvFFZbGVHcBoHPl6TUKLL3f2fTsnVNNg=
+github.com/hugomods/code-block-panel v0.9.0/go.mod h1:3J9yUxaShbhYvFFZbGVHcBoHPl6TUKLL3f2fTsnVNNg=
 github.com/hugomods/i18n-js v0.1.0 h1:gJmJVObN8rvtMEwBW/z9Wiitown5ZT91092UaAO+UIE=
 github.com/hugomods/i18n-js v0.1.0/go.mod h1:eJfxjgI2CQsNA1/ReIVvr5127DftUKcbHd2A2SQmDvU=
 github.com/hugomods/i18n-js v0.2.0/go.mod h1:eJfxjgI2CQsNA1/ReIVvr5127DftUKcbHd2A2SQmDvU=
